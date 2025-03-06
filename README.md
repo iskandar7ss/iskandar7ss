@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello!, I'm iskandar7ss, Web Developer 👋:
 #currently working on my own projects and learning new technologies
