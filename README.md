@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iskandar7ss" />
 <h2 style="font-family: monospace;"># Hello!, I'm iskandar7ss, Web Developer 👋:</h2>
 #currently working on my own projects and learning new technologies
 
