@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Hand+Precursive&weight=500&pause=1000&color=5029F7&background=23FF4500&center=true&width=435&lines=hello+world!)](https://git.io/typing-svg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iskandar7ss" />
 <h2 style="font-family: monospace;"># Hello!, I'm iskandar7ss, Web Developer 👋:</h2>
 #currently working on my own projects and learning new technologies
