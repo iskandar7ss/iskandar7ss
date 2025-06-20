@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iskandar7ss&theme=react&border_radius=10" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iskandar7ss)](https://git.io/streak-stats)
 
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandar7ss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 
