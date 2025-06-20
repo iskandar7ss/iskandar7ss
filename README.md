@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iskandar7ss&theme=dark" alt="GitHub Streak" /></a>
+
 
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandar7ss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 
