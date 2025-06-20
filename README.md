@@ -27,7 +27,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iskandar7ss&theme=react&border_radius=10)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=iskandar7ss&theme=react&border_radius=10)](https://git.io/streak-stats)
 
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskandar7ss&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
 
