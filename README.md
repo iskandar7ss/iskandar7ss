@@ -38,12 +38,4 @@
 </div>
 
 ---
-
-## 📫 Contact Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-iskandar7ss-black?style=for-the-badge&logo=github)](https://github.com/iskandar7ss)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssgames2022@gmail.com)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
