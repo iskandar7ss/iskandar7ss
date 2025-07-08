@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
-        working-directory: ./study
+        working-directory: study
 
       - name: Build and fix
         run: npm run build:fix
@@ -31,4 +31,4 @@ jobs:
 
       - name: Start app
         run: npm start
-        working-directory: ./study
+        working-directory: study
