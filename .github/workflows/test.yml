@@ -1,0 +1,18 @@
+name: studydz-testing
+on:
+commit_request:
+branches: -main
+
+jobs:
+test:
+runs-on: ubuntu-latest
+container:
+image : node20
+steps:
+-uses: actions/checkout@v3
+with:
+node-version: 20
+-run: npm ci
+-run: npm start
+-run: npm run build
+
