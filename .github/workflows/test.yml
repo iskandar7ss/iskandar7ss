@@ -18,12 +18,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: List files for debugging
+        run: ls -la
+
       - name: Install dependencies
-        run: npm i
+        run: npm ci
+        working-directory: ./study
 
       - name: Build and fix
         run: npm run build:fix
+        working-directory: ./study
 
       - name: Start app
         run: npm start
-
+        working-directory: ./study
